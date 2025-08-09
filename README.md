@@ -1,85 +1,58 @@
-<h1 align="center">Hi 👋, I'm Kifu (Nguyễn Kiều Hưng)</h1>
-<h3 align="center">Full-stack Developer | Product-minded | Banking-grade Systems</h3>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey! Nice to see you.</h1>
+
+<p>Welcome to my page!<br>
+I'm <b>Kifu (Nguyễn Kiều Hưng)</b>, a full-stack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197473.png" width="13"/> <b>Hà Nội, Vietnam</b>.</p>
+
+<p>I specialize in building secure, scalable, and high-performance applications — especially in fintech and edtech. I love clean architecture, product thinking, and systems that scale.</p>
 
 ---
 
-🎯 **About Me**
-
-I'm a full-stack developer with 4+ years of experience building secure, scalable, and high-performance web/mobile applications. I specialize in React, Next.js, NestJS, Docker, and system architecture — with a strong focus on clean code, product thinking, and measurable impact.
-
-I thrive in environments that demand precision, speed, and security — especially in fintech and edtech. My mindset is detail-oriented, product-driven, and collaborative. I enjoy mentoring, standardizing workflows, and building systems that scale.
-
----
-
-🚀 **Recent Projects**
-
-- **Catapult IELTS** – AI-powered IELTS testing platform  
-  _React, Vite, TanStack Query, Shadcn UI, Tailwind, Storybook, NestJS, PostgreSQL, Redis, PayOS, Docker, GitHub Actions, AWS S3/EC2_  
-  - SSR landing page (LCP < 2.5s) & SPA mock test with countdown, autosave, audio processing (FFmpeg)  
-  - AI scoring module for Writing & Speaking using Google Gemini (prompt-engineered by IELTS criteria)  
-  - Real-time payment via PayOS, CI/CD with GitHub Actions & Docker, deployed on AWS
-
-- **NextChat** – Secure messaging & calling system  
-  _React, React Native, Synapse Matrix, Docker, Portainer, Prometheus, Grafana_  
-  - Built Element client clone for web and mobile (Android/iOS)  
-  - Integrated Synapse Matrix as XMPP server with custom Docker images  
-  - Deployed via Portainer stack with auto-pull, rollback, and versioning  
-  - Configured Synapse Admin for user/room/ACL management and secure token provisioning  
-  - Monitoring with Prometheus & Grafana dashboards for system metrics and alerting
-
-- **Landing Page Builder** – Drag-and-drop builder with theme cloning & versioning  
-  _Next.js, Bun, Shadcn UI, Tailwind CSS, Prisma, PostgreSQL, Clerk, UploadThing, GitHub Actions, Vercel_  
-  - Component builder with reusable templates, tree-view structure, and page duplication  
-  - Visual CSS panel for styling with pre-defined attributes  
-  - Custom domain publishing, preview, and versioning support  
-  - CI/CD pipeline via GitHub Actions, deployed on Vercel
+<h3>💻 Things I code with</h3>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
+  <img alt="Shadcn UI" src="https://img.shields.io/badge/-Shadcn_UI-000000?style=flat-square" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="TanStack Query" src="https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat-square" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS_S3/EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img alt="Portainer" src="https://img.shields.io/badge/-Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white" />
+</p>
 
 ---
 
-🏆 **Achievements**
+<h3>📜 Certifications</h3>
 
-- 🥇 Built and deployed a full-stack AI-powered IELTS platform — used by 500+ learners in pilot phase  
-- 🚀 Successfully cloned and customized Element client across web and mobile platforms  
-- 🔧 Published reusable Docker images for Synapse, Element Web, and Mobile  
-- 📈 Reduced landing page LCP to under 2.5s using SSR and performance optimization  
-- 🛠️ Created a drag-and-drop builder empowering non-tech users to launch branded pages
-
----
-
-📜 **Certifications**
-
-- 🎓 Google UX Design Certificate – User-centered design, wireframing, prototyping, usability testing  
-- 🎓 Google Project Management Certificate – Agile methodologies, stakeholder communication, risk management  
-- 🗣️ IELTS Academic – Overall 6.0
+<ul>
+  <li>🎓 Google UX Design Certificate</li>
+  <li>🎓 Google Project Management Certificate</li>
+  <li>🗣️ IELTS Academic – Overall 6.0</li>
+</ul>
 
 ---
 
-📸 **Demo Screenshots**
+<h3>📫 Contact Me</h3>
 
-> Replace the URLs below with your actual image links
-
-#### Catapult IELTS – AI Scoring & Mock Test  
-![Catapult IELTS Demo](https://your-image-host.com/catapult-demo.png)
-
-#### NextChat – Secure Messaging & Calling  
-![NextChat Demo](https://your-image-host.com/nextchat-demo.png)
-
-#### Landing Page Builder – Drag & Drop Interface  
-![Builder Demo](https://your-image-host.com/builder-demo.png)
+- Email: <a href="mailto:kifu.dev@gmail.com">kifu.dev@gmail.com</a>  
+- LinkedIn: <a href="https://linkedin.com/in/kifu">linkedin.com/in/kifu</a>  
+- GitHub: <a href="https://github.com/ImKifu">github.com/ImKifu</a>
 
 ---
 
-📫 **Contact Me**
+<h3>✨ Philosophy</h3>
 
-- Email: [kifu.dev@gmail.com](mailto:kifu.dev@gmail.com)  
-- LinkedIn: [linkedin.com/in/kifu](https://linkedin.com/in/kifu)  
-- GitHub: [github.com/ImKifu](https://github.com/ImKifu)
-
----
-
-✨ **Philosophy**
-
-> “Code is not just for machines — it’s for people who maintain it.  
-> I write with clarity, optimize with intent, and build with empathy.”
-
----
+<blockquote>
+“Code is not just for machines — it’s for people who maintain it.  
+I write with clarity, optimize with intent, and build with empathy.”
+</blockquote>
